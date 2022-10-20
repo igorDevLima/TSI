@@ -6,4 +6,7 @@ public class Main {
         this.nome=nome;
 
     }
+    public void sdd(){
+        System.out.println("GDDFDF");
+    }
 }
